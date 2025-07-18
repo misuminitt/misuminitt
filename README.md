@@ -1,6 +1,12 @@
 <h1 align="center">👋 Hello! My name is Muhammad Ridwan Kusumahani</h1>
 
+<p align="center">
+  <a href="https://www.linkedin.com/in/muhammad-ridwan-kusumahani-5210722a9/">
+    <img src="https://img.shields.io/badge/LinkedIn-%231877F2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+  </a>
+</p>
 
+---
 
 ## 🛠️ Technologies & Tools
 
