@@ -1,7 +1,5 @@
 <h1 align="center">👋 Hello! My name is Muhammad Ridwan Kusumahani</h1>
 
----
-
 ## 🛠️ Technologies & Tools
 
 <p>
