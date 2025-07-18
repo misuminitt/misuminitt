@@ -1,4 +1,4 @@
-<h1 align="center">👋 Hello! My name is [Nama Kamu]</h1>
+<h1 align="center">👋 Hello! My name is Muhammad Ridwan Kusumahani</h1>
 
 <p align="center">
   <a href="https://www.youtube.com/@channelkamu">
