@@ -1,14 +1,5 @@
 <h1 align="center">👋 Hello! My name is Muhammad Ridwan Kusumahani</h1>
 
-<p align="center">
-  <a href="https://www.youtube.com/@channelkamu">
-    <img src="https://img.shields.io/badge/YouTube-5.4k-red?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube Badge"/>
-  </a>
-  <a href="https://portfolio-kamu.com">
-    <img src="https://img.shields.io/badge/Portfolio-%20[Your%20Name]'s%20Website-blue?style=for-the-badge" alt="Portfolio Badge"/>
-  </a>
-</p>
-
 ---
 
 ## 🛠️ Technologies & Tools
