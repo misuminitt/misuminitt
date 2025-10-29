@@ -56,13 +56,3 @@
   <img src="https://github-readme-stats.vercel.app/api?username=misuminitt&show_icons=true&theme=radical" alt="GitHub Stats" height="160px"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=misuminitt&layout=compact&theme=radical" alt="Top Languages" height="160px"/>
 </p>
-
----
-
-## 📫 Connect with Me
-
-<p align="center">
-  <a href="mailto:2500018053@webmail.uad.ac.id"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-  <a href="https://github.com/misuminitt"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"/></a>
-  <a href="https://www.linkedin.com/in/muhammad-ridwan-kusumahani-5210722a9/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-</p>
