@@ -55,6 +55,7 @@
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=misuminitt&show_icons=true&theme=radical" alt="GitHub Stats" height="160px"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=misuminitt&layout=compact&theme=radical" alt="Top Languages" height="160px"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=misuminitt&theme=moonlight" height="160px" alt="Repos per Language"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=misuminitt&theme=moonlight" height="160px" alt="GitHub Stats Summary"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=misuminitt&theme=moonlight" alt="Profile Details"/>
 </p>
