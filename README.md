@@ -69,15 +69,15 @@
 
 ## Featured Projects
 
-- **Project Absen PLD (Private Repo)**   
+- **Project Absen PT Panha Network Solution (Private Repo)**   
   Internal attendance system for employee accounts, daily/monthly attendance, leave/permit/loan/overtime requests, and Google Sheets sync.  
   `PHP 8.1+` `CodeIgniter 3` `MariaDB/MySQL` `Python` `JavaScript` `CSS`
 
-- **Project Finance PLD (Private Repo)**    
+- **Project Finance PT Panha Network Solution (Private Repo)**    
   Internal finance platform for invoice/voucher operations, master data, role management, activity logs, payroll, and Google Sheets integration.  
   `Go 1.25+` `net/http` `html/template` `JavaScript` `CSS` `Google Sheets API`
 
-- **[MikroTik Dashboard](https://github.com/misuminitt/mikrotik-dashboard)**  
+- **[MikroTik Dashboard PT Panha Network Solution](https://github.com/misuminitt/mikrotik-dashboard)**  
   Web-based NOC dashboard for real-time monitoring and management of MikroTik devices.  
   `Node.js` `Express.js` `JavaScript` `HTML` `CSS` `SNMP v2c` `RouterOS API` `PM2`
 
