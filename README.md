@@ -5,6 +5,9 @@
 </p>
 
 <p align="center">
+  <a href="https://misuminitt.vercel.app">
+    <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio Badge"/>
+  </a>
   <a href="https://www.linkedin.com/in/muhammad-ridwan-kusumahani-5210722a9/">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
@@ -49,7 +52,11 @@
 <p>
   <img src="https://img.shields.io/badge/MariaDB%20%2F%20MySQL-003545?style=for-the-badge&logo=mariadb&logoColor=white"/>
   <img src="https://img.shields.io/badge/Google%20Sheets%20API-34A853?style=for-the-badge&logo=googlesheets&logoColor=white"/>
+  <img src="https://img.shields.io/badge/REST%20API-005571?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/TR--069%20%2F%20CWMP-4CAF50?style=for-the-badge"/>
   <img src="https://img.shields.io/badge/RouterOS%20API-0099D6?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/MikroTik%20RouterOS-0099D6?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Cisco%20IOS-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white"/>
   <img src="https://img.shields.io/badge/SNMP-v2c-0078D4?style=for-the-badge"/>
   <img src="https://img.shields.io/badge/GenieACS-A3D900?style=for-the-badge"/>
   <img src="https://img.shields.io/badge/PM2-2B037A?style=for-the-badge&logo=pm2&logoColor=white"/>
@@ -57,10 +64,20 @@
 
 ### Systems & Security Tools
 <p>
+  <img src="https://img.shields.io/badge/Linux%20Server%20Administration-333333?style=for-the-badge&logo=linux&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Apache-D22128?style=for-the-badge&logo=apache&logoColor=white"/>
   <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"/>
   <img src="https://img.shields.io/badge/Debian-A81D33?style=for-the-badge&logo=debian&logoColor=white"/>
   <img src="https://img.shields.io/badge/Kali%20Linux-557C94?style=for-the-badge&logo=kalilinux&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Nmap-214478?style=for-the-badge"/>
   <img src="https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white"/>
+  <img src="https://img.shields.io/badge/OWASP%20ZAP-00549E?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Metasploit-2E5EAA?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Hydra-3A3A3A?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/John%20the%20Ripper-6B1E1E?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Netcat-111111?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Aircrack--ng-1D4ED8?style=for-the-badge"/>
   <img src="https://img.shields.io/badge/Burp%20Suite-FF6A00?style=for-the-badge&logo=portswigger&logoColor=white"/>
   <img src="https://img.shields.io/badge/MikroTik-0099D6?style=for-the-badge"/>
 </p>
