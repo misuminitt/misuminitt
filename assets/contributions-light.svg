@@ -2,7 +2,7 @@
 <title>Contribution activity for misuminitt: GitHub and GitLab</title>
 <rect x="0.5" y="0.5" width="777" height="220" rx="12" fill="#ffffff" stroke="#d1d9e0"/>
 <text x="20" y="29" fill="#1f2328" font-family="system-ui,-apple-system,sans-serif" font-size="16" font-weight="600">Contributions across platforms</text>
-<text x="20" y="49" fill="#57606a" font-family="system-ui,-apple-system,sans-serif" font-size="11">1,407 GitHub contributions  ·  GitLab not connected</text>
+<text x="20" y="49" fill="#57606a" font-family="system-ui,-apple-system,sans-serif" font-size="11">1,407 GitHub contributions  ·  71 GitLab events</text>
 <text x="47" y="73" fill="#57606a" font-family="system-ui,sans-serif" font-size="10">Nov</text>
 <text x="99" y="73" fill="#57606a" font-family="system-ui,sans-serif" font-size="10">Dec</text>
 <text x="151" y="73" fill="#57606a" font-family="system-ui,sans-serif" font-size="10">Jan</text>
@@ -559,11 +559,13 @@
 <g><title>2026-05-13: 0 GitHub contributions; 0 GitLab events</title>
 <rect x="385" y="126" width="10" height="10" rx="2" fill="#ebedf0"/>
 </g>
-<g><title>2026-05-14: 2 GitHub contributions; 0 GitLab events</title>
+<g><title>2026-05-14: 2 GitHub contributions; 1 GitLab events</title>
 <rect x="385" y="139" width="10" height="10" rx="2" fill="#40c463"/>
+<rect x="390" y="139" width="5" height="10" rx="1" fill="#ffdbb5"/>
 </g>
-<g><title>2026-05-15: 14 GitHub contributions; 0 GitLab events</title>
+<g><title>2026-05-15: 14 GitHub contributions; 3 GitLab events</title>
 <rect x="385" y="152" width="10" height="10" rx="2" fill="#216e39"/>
+<rect x="390" y="152" width="5" height="10" rx="1" fill="#f8ab61"/>
 </g>
 <g><title>2026-05-16: 2 GitHub contributions; 0 GitLab events</title>
 <rect x="385" y="165" width="10" height="10" rx="2" fill="#40c463"/>
@@ -1090,29 +1092,32 @@
 <g><title>2026-11-06: 28 GitHub contributions; 0 GitLab events</title>
 <rect x="710" y="152" width="10" height="10" rx="2" fill="#216e39"/>
 </g>
-<g><title>2026-11-07: 38 GitHub contributions; 0 GitLab events</title>
+<g><title>2026-11-07: 38 GitHub contributions; 1 GitLab events</title>
 <rect x="710" y="165" width="10" height="10" rx="2" fill="#216e39"/>
+<rect x="715" y="165" width="5" height="10" rx="1" fill="#ffdbb5"/>
 </g>
-<g><title>2026-11-08: 1 GitHub contributions; 0 GitLab events</title>
+<g><title>2026-11-08: 1 GitHub contributions; 2 GitLab events</title>
 <rect x="723" y="87" width="10" height="10" rx="2" fill="#9be9a8"/>
+<rect x="728" y="87" width="5" height="10" rx="1" fill="#f8ab61"/>
 </g>
-<g><title>2026-11-09: 0 GitHub contributions; 0 GitLab events</title>
-<rect x="723" y="100" width="10" height="10" rx="2" fill="#ebedf0"/>
+<g><title>2026-11-09: 0 GitHub contributions; 5 GitLab events</title>
+<rect x="723" y="100" width="10" height="10" rx="2" fill="#fc6d26"/>
 </g>
 <g><title>2026-11-10: 0 GitHub contributions; 0 GitLab events</title>
 <rect x="723" y="113" width="10" height="10" rx="2" fill="#ebedf0"/>
 </g>
-<g><title>2026-11-11: 0 GitHub contributions; 0 GitLab events</title>
-<rect x="723" y="126" width="10" height="10" rx="2" fill="#ebedf0"/>
+<g><title>2026-11-11: 0 GitHub contributions; 24 GitLab events</title>
+<rect x="723" y="126" width="10" height="10" rx="2" fill="#b94a00"/>
 </g>
-<g><title>2026-11-12: 0 GitHub contributions; 0 GitLab events</title>
-<rect x="723" y="139" width="10" height="10" rx="2" fill="#ebedf0"/>
+<g><title>2026-11-12: 0 GitHub contributions; 12 GitLab events</title>
+<rect x="723" y="139" width="10" height="10" rx="2" fill="#b94a00"/>
 </g>
-<g><title>2026-11-13: 0 GitHub contributions; 0 GitLab events</title>
-<rect x="723" y="152" width="10" height="10" rx="2" fill="#ebedf0"/>
+<g><title>2026-11-13: 0 GitHub contributions; 14 GitLab events</title>
+<rect x="723" y="152" width="10" height="10" rx="2" fill="#b94a00"/>
 </g>
-<g><title>2026-11-14: 1 GitHub contributions; 0 GitLab events</title>
+<g><title>2026-11-14: 1 GitHub contributions; 9 GitLab events</title>
 <rect x="723" y="165" width="10" height="10" rx="2" fill="#9be9a8"/>
+<rect x="728" y="165" width="5" height="10" rx="1" fill="#b94a00"/>
 </g>
 <rect x="20" y="198" width="10" height="10" rx="2" fill="#30a14e"/>
 <text x="36" y="207" fill="#57606a" font-family="system-ui,sans-serif" font-size="11">GitHub</text>
