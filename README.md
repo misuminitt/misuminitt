@@ -53,8 +53,8 @@ For broader project context, including infrastructure notes and my company's web
 ### Cross-platform activity
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="./assets/contributions-dark.svg" />
-  <img width="100%" alt="GitHub and GitLab contribution activity calendar" src="./assets/contributions-light.svg" />
+  <source media="(prefers-color-scheme: dark)" srcset="./assets/contributions-dark.svg?rev=gitlab-live-20261114" />
+  <img width="100%" alt="GitHub and GitLab contribution activity calendar" src="./assets/contributions-light.svg?rev=gitlab-live-20261114" />
 </picture>
 
 <sub>Green = GitHub contributions; orange = GitLab user activity events. The two services count different kinds of activity, so totals are shown separately rather than presented as a single commit count. Private project names and commit details are never included in these images.</sub>
