@@ -1,0 +1,42 @@
+name: Update cross-platform contribution calendar
+
+on:
+  workflow_dispatch:
+  push:
+    branches: [main]
+    paths:
+      - .github/workflows/combined-activity.yml
+      - scripts/combined_activity.py
+  schedule:
+    - cron: "17 0 * * *" # 07:17 Asia/Jakarta
+
+permissions:
+  contents: write
+
+concurrency:
+  group: profile-contribution-calendar
+  cancel-in-progress: false
+
+jobs:
+  build-calendar:
+    runs-on: ubuntu-latest
+    timeout-minutes: 10
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+      - name: Generate aggregate-only contribution SVGs
+        env:
+          GITHUB_TOKEN: ${{ github.token }}
+          GITLAB_READ_USER_TOKEN: ${{ secrets.GITLAB_READ_USER_TOKEN }}
+        run: python scripts/combined_activity.py
+      - name: Commit SVG output
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add assets/contributions-dark.svg assets/contributions-light.svg
+          if ! git diff --cached --quiet; then
+            git commit -m "chore(profile): refresh activity calendar [skip ci]"
+            git push
+          fi
